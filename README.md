@@ -26,6 +26,8 @@ Essas fazem com que crie-se um card quando você for compartilhar seu site, colo
 
 ```
 <meta property="og:title" content="Ryan Basque">
+<meta property="og:image" content="https://firebasestorage.googleapis.com/v0/b/ryan-basque-portifolio-fa8f4.appspot.com/o/ryanbasque.png?alt=media&token=8c6043ba-875d-4aa5-b836-da6bc3a815dc"> // lembrando que é necessário adiconar um path ou uma url
+<meta property="og:description" content="Oi! Meu nome é Ryan Basque. Eu penso e construo e interfaces de sistemas!">
 ```
 
 ![Compartilhamento](https://firebasestorage.googleapis.com/v0/b/ryan-basque-portifolio-fa8f4.appspot.com/o/linkedin-post.jpeg?alt=media&token=321abf85-2006-460b-9431-9baf5978bc62)
