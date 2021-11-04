@@ -8,15 +8,24 @@ Você sabe para que serve a tag `<meta />`? Ele serve basicamente como uma "etiq
 
 O author permite que você assine seu site, um jeito de dizer "hey, fui eu quem fiz isso!"
 ```
-    <meta name="author" content="Ryan Ladevig Basque" />
+<meta name="author" content="Ryan Ladevig Basque" />
 ```
+
+## keywords
+
+Isso cria palavras chave para seu site ser melhor indexado pelo SEO!
+
+```
+<meta name="keywords" content="ryan basque, web, desenvolvimento, portifolio, front-end">
+```
+
 
 ## og:title, og:description e og:image
 
 Essas fazem com que crie-se um card quando você for compartilhar seu site, colocando um title (título), description (descrição) e uma image (foto).
 
 ```
-    <meta property="og:title" content="Ryan Basque">
+<meta property="og:title" content="Ryan Basque">
 ```
 
 ![Compartilhamento](https://firebasestorage.googleapis.com/v0/b/ryan-basque-portifolio-fa8f4.appspot.com/o/linkedin-post.jpeg?alt=media&token=321abf85-2006-460b-9431-9baf5978bc62)
